@@ -1,0 +1,11 @@
+C:\Users\nacho\source\repos\TP\TP\bin\Debug\TP.exe.config
+C:\Users\nacho\source\repos\TP\TP\bin\Debug\TP.exe
+C:\Users\nacho\source\repos\TP\TP\bin\Debug\TP.pdb
+C:\Users\nacho\source\repos\TP\TP\obj\Debug\TP.csproj.AssemblyReference.cache
+C:\Users\nacho\source\repos\TP\TP\obj\Debug\TP.Form1.resources
+C:\Users\nacho\source\repos\TP\TP\obj\Debug\TP.Properties.Resources.resources
+C:\Users\nacho\source\repos\TP\TP\obj\Debug\TP.csproj.GenerateResource.cache
+C:\Users\nacho\source\repos\TP\TP\obj\Debug\TP.csproj.CoreCompileInputs.cache
+C:\Users\nacho\source\repos\TP\TP\obj\Debug\TP.exe
+C:\Users\nacho\source\repos\TP\TP\obj\Debug\TP.pdb
+C:\Users\nacho\source\repos\TP\TP\obj\Debug\TP.Form2.resources
